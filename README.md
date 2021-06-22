@@ -19,3 +19,15 @@ ReleaseNote.md
 new feature ...
 2018-04
 new feature ...
+
+## 运行方法：
+
+```
+python index.py
+```
+
+output:
+```
+开始写入数据 ====> ['Behavior Changes', 'TRUNCATE No Longer Deletes Files in Table Stage', 'Table Stages in SQL Commands Require Explicit Syntax', 'Timestamp Changes', 'Impact on Existing Accounts', 'SQL Enhancements and Fixes', 'Changes to Casting of Strings into Numbers', 'New Functions', 'Support for Changing Account Parameters']
+https://docs.snowflake.com/en/release-notes/2015-06.html
+```
