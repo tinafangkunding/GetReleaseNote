@@ -15,9 +15,13 @@ https://docs.snowflake.com/en/release-notes/2015-11.html
 ## 希望输出：
 
 ReleaseNote.md
+
 2018-05
+
 new feature ...
+
 2018-04
+
 new feature ...
 
 ## 运行方法：
